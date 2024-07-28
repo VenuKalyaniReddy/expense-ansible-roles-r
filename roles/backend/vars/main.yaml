@@ -1,4 +1,4 @@
-MYSQL_HOST: db.bigmatrix.in
+MYSQL_HOST: db.aidevops.website
 sql_password: ExpenseApp@1
 # MY_HOST: mysql.bigmatrix.in
 APP_LOCATION: /app
